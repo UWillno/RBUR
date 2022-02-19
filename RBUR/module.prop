@@ -1,0 +1,6 @@
+id=rbur
+name=Rec自动备份与还原
+version=v1
+versionCode=1
+author=UWillno
+description=备份当前rec，当系统编译时间发生变化时，还原备份的rec。自用，arrow每次更新都给改rec，就随手瞎写了。备份的目录为/data/adb/modules/rbur/UWillno/recovery.img
